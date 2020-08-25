@@ -1,3 +1,5 @@
+% Birbs r c001.
+
 % find instantaneous respiratory frequency with and without calls
 % expiratory and pre/post inspiratory duration
 % Load in data
